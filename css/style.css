@@ -284,3 +284,8 @@ s-box-text p{
     margin-top: 20px;
     border-radius: 0px;
 }
+.client-box:hover{
+    transform: translateY(-10px);
+    box-shadow: 5px 10pz 30pz rgba(0,0,0,0.1);
+    transition: all ease 0.2s;
+}
